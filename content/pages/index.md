@@ -81,7 +81,7 @@ sections:
             style: link
   - section_id: testnet
     type: section_grid
-    title: Mainnet
+    title: Testnet
     subtitle: An optional subtitle of the section
     col_number: two
     grid_items:
