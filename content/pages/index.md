@@ -10,6 +10,8 @@ sections:
     actions:
       - label: Entra nella community Telegram
         url: /docs
+        hasIcon: true,
+        icon: facebook
         style: primary
   - section_id: features
     type: section_grid
