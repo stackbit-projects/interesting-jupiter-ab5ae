@@ -24,6 +24,20 @@ sections:
         icon: arrow-right
         icon_position: right
         style: primary
+    actions:
+      - label: Entra nella community Telegram
+        url: /docs
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+        style: primary
+    actions:
+      - label: Entra nella community Telegram
+        url: /docs
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+        style: primary
   - section_id: text-no-img
     type: section_content
     title: Staking
