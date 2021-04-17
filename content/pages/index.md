@@ -8,7 +8,7 @@ sections:
     content: >-
       Community italiana su Proof of Staking, cryptovalute & blockchain!
     actions:
-      - label: Get Started
+      - label: Entra nella community Telegram
         url: /docs
         style: primary
   - section_id: features
