@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: Heroes
     image: images/10.jpg
     content: >-
       Community italiana su Proof of Staking, cryptovalute & blockchain!
