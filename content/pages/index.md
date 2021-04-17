@@ -79,7 +79,7 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-  - section_id: features-two-col
+  - section_id: testnet
     type: section_grid
     title: Mainnet
     subtitle: An optional subtitle of the section
