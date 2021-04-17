@@ -55,7 +55,7 @@ sections:
       - label: Get Started
         url: /docs/getting-started/installation
         style: primary
-  - section_id: features-two-col
+  - section_id: mainnet
     type: section_grid
     title: Mainnet
     subtitle: An optional subtitle of the section
