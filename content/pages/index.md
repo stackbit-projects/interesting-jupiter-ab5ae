@@ -17,25 +17,13 @@ sections:
   - section_id: features
     type: section_grid
     col_number: three
-    grid_items:
-      - title: Community
-        content: >-
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-      - title: Staking
-        content: >-
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-      - title: Guides
-        content: >-
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
+    actions:
+      - label: Entra nella community Telegram
+        url: /docs
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+        style: primary
   - section_id: text-no-img
     type: section_content
     title: Staking
