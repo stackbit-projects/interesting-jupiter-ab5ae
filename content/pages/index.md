@@ -42,6 +42,19 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
+  - section_id: text-no-img
+    type: section_content
+    title: Staking
+    content: >
+      Un nodo validatore ha il compito di creare, proporre o votare blocchi
+      nelle blockchain governate da Proof of Stake. Questi nodi devono essere
+      robusti, sicuri ed attivi 24/24h 7 giorni su 7. Delegando i tuoi token ad
+      uno dei nostri nodi validatori non dovrai preoccuparti di tutto questo, e
+      potrai ricevere gran parte dei block rewards.
+    actions:
+      - label: Get Started
+        url: /docs/getting-started/installation
+        style: primary
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
@@ -66,19 +79,6 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-  - section_id: text-no-img
-    type: section_content
-    title: Staking
-    content: >
-      Un nodo validatore ha il compito di creare, proporre o votare blocchi
-      nelle blockchain governate da Proof of Stake. Questi nodi devono essere
-      robusti, sicuri ed attivi 24/24h 7 giorni su 7. Delegando i tuoi token ad
-      uno dei nostri nodi validatori non dovrai preoccuparti di tutto questo, e
-      potrai ricevere gran parte dei block rewards.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
