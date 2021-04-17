@@ -10,9 +10,9 @@ sections:
     actions:
       - label: Entra nella community Telegram
         url: /docs
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
         style: primary
   - section_id: features
     type: section_grid
