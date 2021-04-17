@@ -34,7 +34,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
-      - title: Style Guide
+      - title: Guides
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
