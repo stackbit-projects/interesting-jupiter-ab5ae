@@ -61,10 +61,12 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: Staking
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Un nodo validatore ha il compito di creare, proporre o votare blocchi
+      nelle blockchain governate da Proof of Stake. Questi nodi devono essere
+      robusti, sicuri ed attivi 24/24h 7 giorni su 7. Delegando i tuoi token ad
+      uno dei nostri nodi validatori non dovrai preoccuparti di tutto questo, e
+      potrai ricevere gran parte dei block rewards.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
